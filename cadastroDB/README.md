@@ -1,10 +1,10 @@
 ## catastroBD
 ## Descripción general
-Esta aplicación Java está diseñada para lidar con la gerencia de usuarios en un banco de datos MySQL. Los principios del patrón de diseño DAO (objeto de acceso a datos) para las implementaciones para separar la lógica de acceso a los datos de la lógica de negocios, promoviendo un código más limpio, modular y de fácil manipulación.
+Esta aplicação Java foi projetada para lidar com o gerenciamento de usuários em um banco de dados MySQL. Os princípios do padrão de design DAO (objeto de acesso a dados) para as implementações para separar a lógica de acesso dos dados da lógica de negócios, promovendo um código mais limpo, modular e de fácil manipulação.
 
-Componentes del aplicativo Clase de usuario:
+Componentes do aplicativo Classe do usuário:
 
-Descripción: Representa un usuario no sistema. Atributos: código: identificador exclusivo del usuario. nombre: Nombre del usuario. teléfono: número de teléfono del usuario. correo electrónico: endereço de e-mail do usuário. Métodos: Incluye captadores y definidores para cada atributo.
+Descrição: Representa um usuário no sistema. Atributos: código: identificador exclusivo do usuário. nome: Nome do usuário. telefone: número de telefone do usuário. correio eletrônico: endereço de e-mail do usuário. Métodos: Inclui captadores e definidos para cada atributo.
 
 entidad de paquete;
 
