@@ -1,3 +1,4 @@
+## AS DOCUMENTAÇOES DESTE PROJETO ENCONTRA-SE NO SUIGUINTE LINK: https://drive.google.com/file/d/1Q6nfk2uVywmnZ0iahnwAWwtpbr5M4vnC/view?usp=drive_link
 # cadastroBD
  Descrição geral
 Esta aplicação Java foi desenvolvida para lidar com o gerenciamento de usuários em um banco de dados MySQL. Os princípios do padrão de design DAO (Data Access Object) foram implementados para separar a lógica de acesso a dados da lógica de negócios, promovendo assim um código mais limpo, modular e de fácil manutenção.
